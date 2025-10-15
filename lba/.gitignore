@@ -221,3 +221,12 @@ konst-helper.sh
 .python-version
 venv
 *.nix
+
+# Yarn v4
+.pnp.*
+.yarn/*
+!.yarn/patches
+!.yarn/plugins
+!.yarn/releases
+!.yarn/sdks
+!.yarn/versions

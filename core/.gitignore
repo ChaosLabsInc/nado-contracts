@@ -17,8 +17,8 @@ cache/
 typechain-types/
 artifacts/
 
-# ABIs
-abis/
+# ABIs (ChaosLabs: include in tracking to spot breaking ABI changes easier)
+# abis/
 
 # solidity-coverage
 coverage/

@@ -1,0 +1,15 @@
+[
+  {
+    "inputs": [],
+    "name": "getEndpoint",
+    "outputs": [
+      {
+        "internalType": "address",
+        "name": "endpoint",
+        "type": "address"
+      }
+    ],
+    "stateMutability": "view",
+    "type": "function"
+  }
+]
